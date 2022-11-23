@@ -1,0 +1,46 @@
+.about{
+    font-size: 50px;
+    color: red;
+    background-color:pink;
+}
+.details{
+    font-size: 30px;
+    font-style: italic;
+    text-decoration-color: burlywood;
+
+}
+.contact{
+    font-size: 50px;
+    background-color:gray;
+    color: pink;
+
+}
+.info{
+    font-size: 30px;
+    color: black;
+
+}
+.hobby
+{
+    font-size: 50px;
+    background-color: aquamarine;
+    color : red;
+}
+.hob{
+    font-size: 30px;
+
+}
+.skill{
+    font-size: 50px;
+    background-color: greenyellow;
+    color: darkgreen;
+}
+.ski{
+    font-size: 30px;
+}
+.experience{
+    font-size: 50px;
+    background-color:darkblue;
+    color: red;
+
+}
